@@ -40,7 +40,7 @@ Todas estas funciones permiten convertir datos geográficos y poblacionales en u
 ### Video Demostración 
 https://youtu.be/CM7fB145xmo
 
-En este vudei se muestra el funcionamiento de la aplicación.
+En este vídeo se muestra el funcionamiento de la aplicación.
 
 
 
